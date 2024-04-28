@@ -4,8 +4,6 @@ My name is Adam Nur Ramadan. I'm hobbyist programmer that create program for fun
 
 My journey on programming start from Last Semesters on High Schools. My first programming language are C++. Then I start creating many simple code with that language.
 And then I learn web programming because I can see what my application look like in graphical ways. from simple HTML/CSS Javascript, to ReactJS, then PHP/Laravel, and NextJS + Django Python Frameworks.
-
-![Adam Nur Ramadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AL1Skey&hide=contribs,prs)
 <!--
 **AL1Skey/AL1Skey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
